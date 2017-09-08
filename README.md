@@ -18,7 +18,9 @@ There are several .jsp files that can be found in the /WebContent folder. HTML/C
 
 Back-End:
 
-The Java language is used in the back-end with the use of servlets. Within the /src folder you can find all the Java code devided into subfolders . The JPA/Eclpise Link is used to communicate with the database and for CRUD( create, read, update, delete) operations , as well as several others that the website require. Moreover DAOs are implemented for clear and correct communication with our database as detailed by the MVC (model, view , controller) pattern. 
+The Java language is used in the back-end with the use of servlets. Within the /src folder you can find all the Java code devided into subfolders . The JPA/Eclpise Link is used to communicate with the database and for CRUD( create, read, update, delete) operations , as well as several others that the website require. Moreover DAOs are implemented for clear and correct communication with our database as detailed by the MVC (model, view , controller) pattern. A MySQL database was used.(the schema is found in the /DatabaseTed2 folder)
+
+
 
 JavaXB and XML usage:
 
